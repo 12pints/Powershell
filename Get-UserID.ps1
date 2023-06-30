@@ -1,5 +1,5 @@
 # This code uses an input file called Users.csv that contains one column; all users work email addresses
-# the script iterates over this file and GETS the AD SAMAccount name for that user and adds it into a result file called:
+# The script iterates over this file and GETS the AD SAMAccount name for that user and adds it into a result file called:
 # C:\temp\Userid-Result.csv
 
 # Start transcript
