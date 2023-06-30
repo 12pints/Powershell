@@ -1,4 +1,4 @@
-# This code iterates over an inoput file called usersTelephone.csv reads the work email and adds the office phone number into AD
+# This code iterates over an input file called C:\Temp\usersTelephone.csv reads the work email and adds the office phone number into AD
 # the input file contains two columns; one with the workemail and one with the phone number
 # Import the Active Directory module
 
